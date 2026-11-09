@@ -1,7 +1,5 @@
 # CS3SY26_ProjectProposal
 
-## Project Proposal Template
-
 ### Project Title or Name of the Application: The Electoral Gambit
 ### Section: 9-Cesium
 ### Group Members: De Jesus, Galero, Templo

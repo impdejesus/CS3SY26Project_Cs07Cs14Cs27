@@ -13,7 +13,7 @@ First of all, there needs to be an election setting in the first place. Here, we
 
 It is important to note that although our main concept is bound to be related to what our description shows, almost everything else will be subject to change. :)
 
-![Sample Diagram](https://ibb.co/ynxPzY9F)
+<img width="1185" height="635" alt="Screenshot 2026-11-11 211436" src="https://github.com/user-attachments/assets/850f9266-605c-4e91-bf59-14aa2ebf0620" />
 
 ### Goals:
 

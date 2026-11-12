@@ -3,7 +3,7 @@
 ### Project Title or Name of the Application: The Electoral Gambit
 ### Section: 9-Cesium
 ### Group Members: De Jesus, Galero, Templo
-### Date (Proposal Date): Nov. 11, 2026
+### Date (Proposal Date): Nov. 12, 2026
 
 ### Project Description:
 
